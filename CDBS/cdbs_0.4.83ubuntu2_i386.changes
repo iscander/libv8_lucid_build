@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 27 Aug 2010 09:57:53 +1000
+Source: cdbs
+Binary: cdbs
+Architecture: all
+Version: 0.4.83ubuntu2
+Distribution: maverick
+Urgency: low
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Changed-By: Robert Ancell <robert.ancell@canonical.com>
+Description: 
+ cdbs       - common build system for Debian packages
+Changes: 
+ cdbs (0.4.83ubuntu2) maverick; urgency=low
+ .
+   * 1/rules/langpack.mk.in:
+     - Make .policy files use gettext
+Checksums-Sha1: 
+ 38cad3e141710a6466c00e5d5c14c38913edcaa5 1201698 cdbs_0.4.83ubuntu2_all.deb
+Checksums-Sha256: 
+ 8d178277358dfc3f54aa2dc4fc80ce0176f40768e39c1b7910c8936326fa706a 1201698 cdbs_0.4.83ubuntu2_all.deb
+Files: 
+ 891dae47ea507ff9c015a88f40127397 1201698 devel optional cdbs_0.4.83ubuntu2_all.deb
+Original-Maintainer: CDBS Hackers <build-common-hackers@lists.alioth.debian.org>
